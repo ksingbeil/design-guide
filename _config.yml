@@ -1,0 +1,9 @@
+title: Design Guide
+description: Working document for people to collaborate on the design guide
+remote_theme: pmarsceill/just-the-docs
+search_enabled: true
+aux_links:
+  "Edit on Github":
+    - "//github.com/bcgov/design-guide"
+  "Email your comments":
+    - "//github.com/ksingbeil/design-guide"
