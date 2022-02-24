@@ -1,11 +1,11 @@
 # Design Practice Guide
 In development ---
 
-Guidance on service design and user experience (UX) design in the B.C. Government.
+Guidance on service design and user experience (UX) design in the B.C. government.
 
 Aligning to the Principles for Digital BC
 
-Doing design research supports the following digital principles:
+A design-led approach supports the following digital principles:
 
     Principle 1: Prioritize delivering impact for British Columbians
     Principle 2: Design with people & embed inclusion
